@@ -1,0 +1,53 @@
+body{
+  background-color: pink;
+ 
+  
+   }
+   
+   .wrapper{
+     width: 80%;
+     margin-left:auto;
+     margin-right:auto;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     text-align: center;
+     height: 700px;
+     box-shadow: 5px 5px 5px 5px yellow;
+   }
+   
+   .logo{
+     height: 200px;
+     background-color : black;
+     border-top-right-radius: 20px;
+   }
+   
+   .nav{
+     height: 50px;
+     background-color: yellow;
+   }
+   
+   .content{
+     width: 100%;
+   }
+   
+   .contA{
+     height:300px;
+     width:30%;
+     background-color: white; 
+     float: left; 
+   }
+   
+   .contB{
+     height: 300px;
+     width: 70%;
+     background-color: blueviolet;
+     float: right;
+   }
+   
+   .footer{
+     height:50px;
+     float: left;
+     width:100%;
+     background-color: green;
+     border-bottom-left-radius: 20px;
+   }
